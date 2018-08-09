@@ -1,0 +1,4 @@
+[run]
+source = semanticdiff
+omit = tests*
+       semanticdiff/*diff_match_patch*.py
